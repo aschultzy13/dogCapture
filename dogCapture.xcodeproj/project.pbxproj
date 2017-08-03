@@ -14,6 +14,7 @@
 		9D15FD5E1F33B543006B35F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D15FD5C1F33B543006B35F8 /* LaunchScreen.storyboard */; };
 		9D15FD691F33B543006B35F8 /* dogCaptureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D15FD681F33B543006B35F8 /* dogCaptureTests.swift */; };
 		9D15FD741F33B543006B35F8 /* dogCaptureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D15FD731F33B543006B35F8 /* dogCaptureUITests.swift */; };
+		9D15FD8C1F33C449006B35F8 /* LaunchImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D15FD8B1F33C449006B35F8 /* LaunchImage.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9D15FD6F1F33B543006B35F8 /* dogCaptureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = dogCaptureUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D15FD731F33B543006B35F8 /* dogCaptureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dogCaptureUITests.swift; sourceTree = "<group>"; };
 		9D15FD751F33B543006B35F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D15FD8B1F33C449006B35F8 /* LaunchImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = LaunchImage.jpg; path = ../../../Downloads/LaunchImage.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		9D15FD471F33B543006B35F8 = {
 			isa = PBXGroup;
 			children = (
+				9D15FD8B1F33C449006B35F8 /* LaunchImage.jpg */,
 				9D15FD521F33B543006B35F8 /* dogCapture */,
 				9D15FD671F33B543006B35F8 /* dogCaptureTests */,
 				9D15FD721F33B543006B35F8 /* dogCaptureUITests */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D15FD8C1F33C449006B35F8 /* LaunchImage.jpg in Resources */,
 				9D15FD5E1F33B543006B35F8 /* LaunchScreen.storyboard in Resources */,
 				9D15FD5B1F33B543006B35F8 /* Assets.xcassets in Resources */,
 				9D15FD591F33B543006B35F8 /* Main.storyboard in Resources */,
@@ -516,6 +520,7 @@
 				9D15FD7A1F33B543006B35F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D15FD7B1F33B543006B35F8 /* Build configuration list for PBXNativeTarget "dogCaptureTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +529,7 @@
 				9D15FD7D1F33B543006B35F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D15FD7E1F33B543006B35F8 /* Build configuration list for PBXNativeTarget "dogCaptureUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +538,7 @@
 				9D15FD801F33B543006B35F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
