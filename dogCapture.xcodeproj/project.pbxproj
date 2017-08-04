@@ -19,6 +19,54 @@
 		9D15FD921F33D1BE006B35F8 /* rubberDuckSqueak.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D15FD901F33D1BE006B35F8 /* rubberDuckSqueak.mp3 */; };
 		9D15FD931F33D1BE006B35F8 /* rubberDuckSqueak.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D15FD901F33D1BE006B35F8 /* rubberDuckSqueak.mp3 */; };
 		9D15FD961F33D88C006B35F8 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D15FD951F33D88C006B35F8 /* AVFoundation.framework */; };
+		9D1A70431F34F8580027FA11 /* dog1sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A703D1F34F8580027FA11 /* dog1sound.mp3 */; };
+		9D1A70441F34F8580027FA11 /* dog1sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A703D1F34F8580027FA11 /* dog1sound.mp3 */; };
+		9D1A70451F34F8580027FA11 /* dog1sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A703D1F34F8580027FA11 /* dog1sound.mp3 */; };
+		9D1A70461F34F8580027FA11 /* dog2sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A703E1F34F8580027FA11 /* dog2sound.mp3 */; };
+		9D1A70471F34F8580027FA11 /* dog2sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A703E1F34F8580027FA11 /* dog2sound.mp3 */; };
+		9D1A70481F34F8580027FA11 /* dog2sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A703E1F34F8580027FA11 /* dog2sound.mp3 */; };
+		9D1A70491F34F8580027FA11 /* dog3sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A703F1F34F8580027FA11 /* dog3sound.mp3 */; };
+		9D1A704A1F34F8580027FA11 /* dog3sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A703F1F34F8580027FA11 /* dog3sound.mp3 */; };
+		9D1A704B1F34F8580027FA11 /* dog3sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A703F1F34F8580027FA11 /* dog3sound.mp3 */; };
+		9D1A704C1F34F8580027FA11 /* dog4sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70401F34F8580027FA11 /* dog4sound.mp3 */; };
+		9D1A704D1F34F8580027FA11 /* dog4sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70401F34F8580027FA11 /* dog4sound.mp3 */; };
+		9D1A704E1F34F8580027FA11 /* dog4sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70401F34F8580027FA11 /* dog4sound.mp3 */; };
+		9D1A704F1F34F8580027FA11 /* dog5sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70411F34F8580027FA11 /* dog5sound.mp3 */; };
+		9D1A70501F34F8580027FA11 /* dog5sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70411F34F8580027FA11 /* dog5sound.mp3 */; };
+		9D1A70511F34F8580027FA11 /* dog5sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70411F34F8580027FA11 /* dog5sound.mp3 */; };
+		9D1A70521F34F8580027FA11 /* dog6sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70421F34F8580027FA11 /* dog6sound.mp3 */; };
+		9D1A70531F34F8580027FA11 /* dog6sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70421F34F8580027FA11 /* dog6sound.mp3 */; };
+		9D1A70541F34F8580027FA11 /* dog6sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70421F34F8580027FA11 /* dog6sound.mp3 */; };
+		9D1A70561F34FBB20027FA11 /* wolfHowl.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70551F34FBB20027FA11 /* wolfHowl.mp3 */; };
+		9D1A70571F34FBB20027FA11 /* wolfHowl.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70551F34FBB20027FA11 /* wolfHowl.mp3 */; };
+		9D1A70581F34FBB20027FA11 /* wolfHowl.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70551F34FBB20027FA11 /* wolfHowl.mp3 */; };
+		9D1A705A1F34FE790027FA11 /* packBarking.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70591F34FE790027FA11 /* packBarking.mp3 */; };
+		9D1A705B1F34FE790027FA11 /* packBarking.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70591F34FE790027FA11 /* packBarking.mp3 */; };
+		9D1A705C1F34FE790027FA11 /* packBarking.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70591F34FE790027FA11 /* packBarking.mp3 */; };
+		9D1A705E1F3500E70027FA11 /* chewbacca.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A705D1F3500E70027FA11 /* chewbacca.mp3 */; };
+		9D1A705F1F3500E70027FA11 /* chewbacca.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A705D1F3500E70027FA11 /* chewbacca.mp3 */; };
+		9D1A70601F3500E70027FA11 /* chewbacca.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A705D1F3500E70027FA11 /* chewbacca.mp3 */; };
+		9D1A70621F350D760027FA11 /* dogCrying.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70611F350D760027FA11 /* dogCrying.mp3 */; };
+		9D1A70631F350D760027FA11 /* dogCrying.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70611F350D760027FA11 /* dogCrying.mp3 */; };
+		9D1A70641F350D760027FA11 /* dogCrying.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70611F350D760027FA11 /* dogCrying.mp3 */; };
+		9D1A70661F350D8D0027FA11 /* Ambulance.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70651F350D8D0027FA11 /* Ambulance.mp3 */; };
+		9D1A70671F350D8D0027FA11 /* Ambulance.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70651F350D8D0027FA11 /* Ambulance.mp3 */; };
+		9D1A70681F350D8D0027FA11 /* Ambulance.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70651F350D8D0027FA11 /* Ambulance.mp3 */; };
+		9D1A706A1F350D980027FA11 /* firetruckSiren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70691F350D980027FA11 /* firetruckSiren.mp3 */; };
+		9D1A706B1F350D980027FA11 /* firetruckSiren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70691F350D980027FA11 /* firetruckSiren.mp3 */; };
+		9D1A706C1F350D980027FA11 /* firetruckSiren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70691F350D980027FA11 /* firetruckSiren.mp3 */; };
+		9D1A706E1F350DA20027FA11 /* policeSiren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A706D1F350DA20027FA11 /* policeSiren.mp3 */; };
+		9D1A706F1F350DA20027FA11 /* policeSiren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A706D1F350DA20027FA11 /* policeSiren.mp3 */; };
+		9D1A70701F350DA20027FA11 /* policeSiren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A706D1F350DA20027FA11 /* policeSiren.mp3 */; };
+		9D1A70721F350F170027FA11 /* tornadoSiren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70711F350F170027FA11 /* tornadoSiren.mp3 */; };
+		9D1A70731F350F170027FA11 /* tornadoSiren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70711F350F170027FA11 /* tornadoSiren.mp3 */; };
+		9D1A70741F350F170027FA11 /* tornadoSiren.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70711F350F170027FA11 /* tornadoSiren.mp3 */; };
+		9D1A70771F35305E0027FA11 /* pika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70761F35305E0027FA11 /* pika.jpg */; };
+		9D1A70781F35305E0027FA11 /* pika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70761F35305E0027FA11 /* pika.jpg */; };
+		9D1A70791F35305E0027FA11 /* pika.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A70761F35305E0027FA11 /* pika.jpg */; };
+		9D1A707B1F3535D60027FA11 /* squeakairtennisball.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A707A1F3535D60027FA11 /* squeakairtennisball.jpg */; };
+		9D1A707C1F3535D60027FA11 /* squeakairtennisball.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A707A1F3535D60027FA11 /* squeakairtennisball.jpg */; };
+		9D1A707D1F3535D60027FA11 /* squeakairtennisball.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A707A1F3535D60027FA11 /* squeakairtennisball.jpg */; };
 		9D240E301F343F8D003E7DD7 /* longSqueaktoy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E2F1F343F8D003E7DD7 /* longSqueaktoy.mp3 */; };
 		9D240E311F343F8D003E7DD7 /* longSqueaktoy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E2F1F343F8D003E7DD7 /* longSqueaktoy.mp3 */; };
 		9D240E321F343F8D003E7DD7 /* longSqueaktoy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E2F1F343F8D003E7DD7 /* longSqueaktoy.mp3 */; };
@@ -86,6 +134,22 @@
 		9D15FD8E1F33CD5A006B35F8 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		9D15FD901F33D1BE006B35F8 /* rubberDuckSqueak.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = rubberDuckSqueak.mp3; sourceTree = "<group>"; };
 		9D15FD951F33D88C006B35F8 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		9D1A703D1F34F8580027FA11 /* dog1sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dog1sound.mp3; sourceTree = "<group>"; };
+		9D1A703E1F34F8580027FA11 /* dog2sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dog2sound.mp3; sourceTree = "<group>"; };
+		9D1A703F1F34F8580027FA11 /* dog3sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dog3sound.mp3; sourceTree = "<group>"; };
+		9D1A70401F34F8580027FA11 /* dog4sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dog4sound.mp3; sourceTree = "<group>"; };
+		9D1A70411F34F8580027FA11 /* dog5sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dog5sound.mp3; sourceTree = "<group>"; };
+		9D1A70421F34F8580027FA11 /* dog6sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dog6sound.mp3; sourceTree = "<group>"; };
+		9D1A70551F34FBB20027FA11 /* wolfHowl.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wolfHowl.mp3; sourceTree = "<group>"; };
+		9D1A70591F34FE790027FA11 /* packBarking.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = packBarking.mp3; sourceTree = "<group>"; };
+		9D1A705D1F3500E70027FA11 /* chewbacca.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chewbacca.mp3; sourceTree = "<group>"; };
+		9D1A70611F350D760027FA11 /* dogCrying.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dogCrying.mp3; sourceTree = "<group>"; };
+		9D1A70651F350D8D0027FA11 /* Ambulance.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Ambulance.mp3; sourceTree = "<group>"; };
+		9D1A70691F350D980027FA11 /* firetruckSiren.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = firetruckSiren.mp3; sourceTree = "<group>"; };
+		9D1A706D1F350DA20027FA11 /* policeSiren.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = policeSiren.mp3; sourceTree = "<group>"; };
+		9D1A70711F350F170027FA11 /* tornadoSiren.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tornadoSiren.mp3; sourceTree = "<group>"; };
+		9D1A70761F35305E0027FA11 /* pika.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pika.jpg; sourceTree = "<group>"; };
+		9D1A707A1F3535D60027FA11 /* squeakairtennisball.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = squeakairtennisball.jpg; sourceTree = "<group>"; };
 		9D240E2F1F343F8D003E7DD7 /* longSqueaktoy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = longSqueaktoy.mp3; sourceTree = "<group>"; };
 		9D240E331F344049003E7DD7 /* shortSqueaktoy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shortSqueaktoy.mp3; sourceTree = "<group>"; };
 		9D240E371F34425F003E7DD7 /* doorBell.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = doorBell.mp3; sourceTree = "<group>"; };
@@ -127,6 +191,7 @@
 		9D15FD471F33B543006B35F8 = {
 			isa = PBXGroup;
 			children = (
+				9D1A70751F352E2D0027FA11 /* Images */,
 				9D15FD941F33D50F006B35F8 /* Sounds */,
 				9D15FD8B1F33C449006B35F8 /* LaunchImage.jpg */,
 				9D15FD521F33B543006B35F8 /* dogCapture */,
@@ -190,6 +255,20 @@
 		9D15FD941F33D50F006B35F8 /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
+				9D1A70711F350F170027FA11 /* tornadoSiren.mp3 */,
+				9D1A706D1F350DA20027FA11 /* policeSiren.mp3 */,
+				9D1A70691F350D980027FA11 /* firetruckSiren.mp3 */,
+				9D1A70651F350D8D0027FA11 /* Ambulance.mp3 */,
+				9D1A70611F350D760027FA11 /* dogCrying.mp3 */,
+				9D1A705D1F3500E70027FA11 /* chewbacca.mp3 */,
+				9D1A70591F34FE790027FA11 /* packBarking.mp3 */,
+				9D1A70551F34FBB20027FA11 /* wolfHowl.mp3 */,
+				9D1A703D1F34F8580027FA11 /* dog1sound.mp3 */,
+				9D1A703E1F34F8580027FA11 /* dog2sound.mp3 */,
+				9D1A703F1F34F8580027FA11 /* dog3sound.mp3 */,
+				9D1A70401F34F8580027FA11 /* dog4sound.mp3 */,
+				9D1A70411F34F8580027FA11 /* dog5sound.mp3 */,
+				9D1A70421F34F8580027FA11 /* dog6sound.mp3 */,
 				9D240E4B1F344CD3003E7DD7 /* ratSound.mp3 */,
 				9D240E471F344CBF003E7DD7 /* mouseSound.mp3 */,
 				9D240E431F344913003E7DD7 /* pigSqueal.mp3 */,
@@ -203,6 +282,15 @@
 				9D15FD901F33D1BE006B35F8 /* rubberDuckSqueak.mp3 */,
 			);
 			name = Sounds;
+			sourceTree = "<group>";
+		};
+		9D1A70751F352E2D0027FA11 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				9D1A707A1F3535D60027FA11 /* squeakairtennisball.jpg */,
+				9D1A70761F35305E0027FA11 /* pika.jpg */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -316,20 +404,36 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D15FD8C1F33C449006B35F8 /* LaunchImage.jpg in Resources */,
+				9D1A70491F34F8580027FA11 /* dog3sound.mp3 in Resources */,
 				9D240E3C1F344448003E7DD7 /* duckQuack.mp3 in Resources */,
+				9D1A70661F350D8D0027FA11 /* Ambulance.mp3 in Resources */,
 				9D2FDB8F1F33E4EF00E04AB2 /* squeakyBall.mp3 in Resources */,
 				9D15FD5E1F33B543006B35F8 /* LaunchScreen.storyboard in Resources */,
 				9D240E441F344913003E7DD7 /* pigSqueal.mp3 in Resources */,
+				9D1A70561F34FBB20027FA11 /* wolfHowl.mp3 in Resources */,
+				9D1A704C1F34F8580027FA11 /* dog4sound.mp3 in Resources */,
+				9D1A705A1F34FE790027FA11 /* packBarking.mp3 in Resources */,
 				9D240E381F34425F003E7DD7 /* doorBell.mp3 in Resources */,
 				9D240E401F344839003E7DD7 /* squirrel.mp3 in Resources */,
 				9D15FD5B1F33B543006B35F8 /* Assets.xcassets in Resources */,
 				9D240E481F344CBF003E7DD7 /* mouseSound.mp3 in Resources */,
 				9D240E4C1F344CD3003E7DD7 /* ratSound.mp3 in Resources */,
+				9D1A70521F34F8580027FA11 /* dog6sound.mp3 in Resources */,
+				9D1A70771F35305E0027FA11 /* pika.jpg in Resources */,
 				9D2FDB931F33E67000E04AB2 /* pikaConversation.mp3 in Resources */,
 				9D240E301F343F8D003E7DD7 /* longSqueaktoy.mp3 in Resources */,
+				9D1A706E1F350DA20027FA11 /* policeSiren.mp3 in Resources */,
+				9D1A706A1F350D980027FA11 /* firetruckSiren.mp3 in Resources */,
+				9D1A70621F350D760027FA11 /* dogCrying.mp3 in Resources */,
 				9D240E341F344049003E7DD7 /* shortSqueaktoy.mp3 in Resources */,
 				9D15FD591F33B543006B35F8 /* Main.storyboard in Resources */,
+				9D1A70461F34F8580027FA11 /* dog2sound.mp3 in Resources */,
+				9D1A70721F350F170027FA11 /* tornadoSiren.mp3 in Resources */,
+				9D1A705E1F3500E70027FA11 /* chewbacca.mp3 in Resources */,
 				9D15FD911F33D1BE006B35F8 /* rubberDuckSqueak.mp3 in Resources */,
+				9D1A70431F34F8580027FA11 /* dog1sound.mp3 in Resources */,
+				9D1A707B1F3535D60027FA11 /* squeakairtennisball.jpg in Resources */,
+				9D1A704F1F34F8580027FA11 /* dog5sound.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -338,16 +442,32 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D240E4D1F344CD3003E7DD7 /* ratSound.mp3 in Resources */,
+				9D1A70671F350D8D0027FA11 /* Ambulance.mp3 in Resources */,
 				9D240E491F344CBF003E7DD7 /* mouseSound.mp3 in Resources */,
+				9D1A70471F34F8580027FA11 /* dog2sound.mp3 in Resources */,
+				9D1A70501F34F8580027FA11 /* dog5sound.mp3 in Resources */,
 				9D240E3D1F344448003E7DD7 /* duckQuack.mp3 in Resources */,
+				9D1A70441F34F8580027FA11 /* dog1sound.mp3 in Resources */,
+				9D1A705B1F34FE790027FA11 /* packBarking.mp3 in Resources */,
 				9D240E411F344839003E7DD7 /* squirrel.mp3 in Resources */,
+				9D1A706B1F350D980027FA11 /* firetruckSiren.mp3 in Resources */,
 				9D240E451F344913003E7DD7 /* pigSqueal.mp3 in Resources */,
+				9D1A704A1F34F8580027FA11 /* dog3sound.mp3 in Resources */,
+				9D1A70531F34F8580027FA11 /* dog6sound.mp3 in Resources */,
+				9D1A707C1F3535D60027FA11 /* squeakairtennisball.jpg in Resources */,
+				9D1A70571F34FBB20027FA11 /* wolfHowl.mp3 in Resources */,
+				9D1A705F1F3500E70027FA11 /* chewbacca.mp3 in Resources */,
 				9D240E351F344049003E7DD7 /* shortSqueaktoy.mp3 in Resources */,
 				9D240E391F34425F003E7DD7 /* doorBell.mp3 in Resources */,
+				9D1A70631F350D760027FA11 /* dogCrying.mp3 in Resources */,
+				9D1A706F1F350DA20027FA11 /* policeSiren.mp3 in Resources */,
 				9D2FDB941F33E67000E04AB2 /* pikaConversation.mp3 in Resources */,
+				9D1A70781F35305E0027FA11 /* pika.jpg in Resources */,
 				9D240E311F343F8D003E7DD7 /* longSqueaktoy.mp3 in Resources */,
 				9D2FDB901F33E4EF00E04AB2 /* squeakyBall.mp3 in Resources */,
+				9D1A70731F350F170027FA11 /* tornadoSiren.mp3 in Resources */,
 				9D15FD921F33D1BE006B35F8 /* rubberDuckSqueak.mp3 in Resources */,
+				9D1A704D1F34F8580027FA11 /* dog4sound.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -356,16 +476,32 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D240E4E1F344CD3003E7DD7 /* ratSound.mp3 in Resources */,
+				9D1A70681F350D8D0027FA11 /* Ambulance.mp3 in Resources */,
 				9D240E4A1F344CBF003E7DD7 /* mouseSound.mp3 in Resources */,
+				9D1A70481F34F8580027FA11 /* dog2sound.mp3 in Resources */,
+				9D1A70511F34F8580027FA11 /* dog5sound.mp3 in Resources */,
 				9D240E3E1F344448003E7DD7 /* duckQuack.mp3 in Resources */,
+				9D1A70451F34F8580027FA11 /* dog1sound.mp3 in Resources */,
+				9D1A705C1F34FE790027FA11 /* packBarking.mp3 in Resources */,
 				9D240E421F344839003E7DD7 /* squirrel.mp3 in Resources */,
+				9D1A706C1F350D980027FA11 /* firetruckSiren.mp3 in Resources */,
 				9D240E461F344913003E7DD7 /* pigSqueal.mp3 in Resources */,
+				9D1A704B1F34F8580027FA11 /* dog3sound.mp3 in Resources */,
+				9D1A70541F34F8580027FA11 /* dog6sound.mp3 in Resources */,
+				9D1A707D1F3535D60027FA11 /* squeakairtennisball.jpg in Resources */,
+				9D1A70581F34FBB20027FA11 /* wolfHowl.mp3 in Resources */,
+				9D1A70601F3500E70027FA11 /* chewbacca.mp3 in Resources */,
 				9D240E361F344049003E7DD7 /* shortSqueaktoy.mp3 in Resources */,
 				9D240E3A1F34425F003E7DD7 /* doorBell.mp3 in Resources */,
+				9D1A70641F350D760027FA11 /* dogCrying.mp3 in Resources */,
+				9D1A70701F350DA20027FA11 /* policeSiren.mp3 in Resources */,
 				9D2FDB951F33E67000E04AB2 /* pikaConversation.mp3 in Resources */,
+				9D1A70791F35305E0027FA11 /* pika.jpg in Resources */,
 				9D240E321F343F8D003E7DD7 /* longSqueaktoy.mp3 in Resources */,
 				9D2FDB911F33E4EF00E04AB2 /* squeakyBall.mp3 in Resources */,
+				9D1A70741F350F170027FA11 /* tornadoSiren.mp3 in Resources */,
 				9D15FD931F33D1BE006B35F8 /* rubberDuckSqueak.mp3 in Resources */,
+				9D1A704E1F34F8580027FA11 /* dog4sound.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

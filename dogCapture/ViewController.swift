@@ -19,13 +19,25 @@ class ViewController: UIViewController {
     var duckQuack = AVAudioPlayer();
     var pigSqueal = AVAudioPlayer();
     var squirrelSound = AVAudioPlayer();
-    
+    var dog1bark = AVAudioPlayer();
+    var dog2bark = AVAudioPlayer();
+    var dog3bark = AVAudioPlayer();
+    var dog4bark = AVAudioPlayer();
+    var dog5bark = AVAudioPlayer();
+    var dog6bark = AVAudioPlayer();
     var toySqueak = AVAudioPlayer();
     var longSqueakToy = AVAudioPlayer();
     var shortSqueakToy = AVAudioPlayer();
     var mouseSound = AVAudioPlayer();
     var ratSound = AVAudioPlayer();
-    
+    var wolfHowl = AVAudioPlayer();
+    var packBarking = AVAudioPlayer();
+    var chewbaccaSound = AVAudioPlayer();
+    var dogWhine = AVAudioPlayer();
+    var ambulanceSiren = AVAudioPlayer();
+    var firetruckSiren = AVAudioPlayer();
+    var policeSiren = AVAudioPlayer();
+    var tornadoSiren = AVAudioPlayer();
     
     
     
@@ -110,10 +122,110 @@ class ViewController: UIViewController {
         } catch {
             print(error)
         }
+        
+        do {
+            dog1bark = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "dog1sound", ofType: "mp3")!));
+            dog1bark.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
+        do {
+            dog2bark = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "dog2sound", ofType: "mp3")!));
+            dog2bark.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
+        do {
+            dog3bark = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "dog3sound", ofType: "mp3")!));
+            dog3bark.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
+        do {
+            dog4bark = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "dog4sound", ofType: "mp3")!));
+            dog4bark.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
+        do {
+            dog5bark = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "dog5sound", ofType: "mp3")!));
+            dog5bark.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
+        do {
+            dog6bark = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "dog6sound", ofType: "mp3")!));
+            dog6bark.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
+        do {
+            wolfHowl = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "wolfHowl", ofType: "mp3")!));
+            wolfHowl.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
+        do {
+            packBarking = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "packBarking", ofType: "mp3")!));
+            packBarking.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
+        do {
+            chewbaccaSound = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "chewbacca", ofType: "mp3")!));
+            chewbaccaSound.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
+        do {
+            dogWhine = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "dogCrying", ofType: "mp3")!));
+            dogWhine.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
+        do {
+            ambulanceSiren = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "Ambulance", ofType: "mp3")!));
+            ambulanceSiren.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
+        do {
+            firetruckSiren = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "firetruckSiren", ofType: "mp3")!));
+            firetruckSiren.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
+        do {
+            policeSiren = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "policeSiren", ofType: "mp3")!));
+            policeSiren.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
+        do {
+            tornadoSiren = try AVAudioPlayer(contentsOf: URL.init(fileURLWithPath: Bundle.main.path(forResource: "tornadoSiren", ofType: "mp3")!));
+            tornadoSiren.prepareToPlay();
+        } catch {
+            print(error)
+        }
+        
     }
     // Button Actions
     
     @IBAction func pikaButton(_ sender: Any) {
+        pikaButton.alpha = 0.5 // 50% opacity
         if pikaSqueak.isPlaying {
             pikaSqueak.stop();
         } else {
@@ -126,14 +238,6 @@ class ViewController: UIViewController {
             ballSqueak.stop();
         } else {
             ballSqueak.play();
-        }
-    }
-    
-    @IBAction func doorBellButton(_ sender: Any) {
-        if doorBell.isPlaying {
-            doorBell.stop();
-        } else {
-            doorBell.play();
         }
     }
     
@@ -201,8 +305,127 @@ class ViewController: UIViewController {
             ratSound.play();
         }
     }
+    
+    @IBAction func dog1barkButton(_ sender: Any) {
+        if dog1bark.isPlaying {
+            dog1bark.stop();
+        } else {
+            dog1bark.play();
+        }
+    }
+    
+    @IBAction func dog2barkButton(_ sender: Any) {
+        if dog2bark.isPlaying {
+            dog2bark.stop();
+        } else {
+            dog2bark.play();
+        }
+    }
    
+    @IBAction func dog3barkButton(_ sender: Any) {
+        if dog3bark.isPlaying {
+            dog3bark.stop();
+        } else {
+            dog3bark.play();
+        }
+    }
 
+    @IBAction func dog4barkButton(_ sender: Any) {
+        if dog4bark.isPlaying {
+            dog4bark.stop();
+        } else {
+            dog4bark.play();
+        }
+    }
 
+    @IBAction func dog5barkButton(_ sender: Any) {
+        if dog5bark.isPlaying {
+            dog5bark.stop();
+        } else {
+            dog5bark.play();
+        }
+    }
+    
+    @IBAction func dog6barkButton(_ sender: Any) {
+        if dog6bark.isPlaying {
+            dog6bark.stop();
+        } else {
+            dog6bark.play();
+        }
+    }
+    
+    @IBAction func wolfHowlButton(_ sender: Any) {
+        if wolfHowl.isPlaying {
+            wolfHowl.stop();
+        } else {
+            wolfHowl.play();
+        }
+    }
+    
+    @IBAction func packBarkingButton(_ sender: Any) {
+        if packBarking.isPlaying {
+            packBarking.stop();
+        } else {
+            packBarking.play();
+        }
+    }
+    
+    @IBAction func chewbaccaButton(_ sender: Any) {
+        if chewbaccaSound.isPlaying {
+            chewbaccaSound.stop();
+        } else {
+            chewbaccaSound.play();
+        }
+    }
+    
+    @IBAction func dogWhineButton(_ sender: Any) {
+        if dogWhine.isPlaying {
+            dogWhine.stop();
+        } else {
+            dogWhine.play();
+        }
+    }
+    
+    @IBAction func ambulanceButton(_ sender: Any) {
+        if ambulanceSiren.isPlaying {
+            ambulanceSiren.stop();
+        } else {
+            ambulanceSiren.play();
+        }
+    }
+    
+    @IBAction func firetruckButton(_ sender: Any) {
+        if firetruckSiren.isPlaying {
+            firetruckSiren.stop();
+        } else {
+            firetruckSiren.play();
+        }
+    }
+    
+    @IBAction func policeButton(_ sender: Any) {
+        if policeSiren.isPlaying {
+            policeSiren.stop();
+        } else {
+            policeSiren.play();
+        }
+    }
+    
+    @IBAction func tornadoButton(_ sender: Any) {
+        if tornadoSiren.isPlaying {
+            tornadoSiren.stop();
+        } else {
+            tornadoSiren.play();
+        }
+    }
+    
+    @IBAction func doorBellButton(_ sender: Any) {
+        if doorBell.isPlaying {
+            doorBell.stop();
+        } else {
+            doorBell.play();
+        }
+    }
+    
+    
 }
 
