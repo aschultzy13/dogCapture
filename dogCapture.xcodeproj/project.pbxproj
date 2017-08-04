@@ -15,6 +15,40 @@
 		9D15FD691F33B543006B35F8 /* dogCaptureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D15FD681F33B543006B35F8 /* dogCaptureTests.swift */; };
 		9D15FD741F33B543006B35F8 /* dogCaptureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D15FD731F33B543006B35F8 /* dogCaptureUITests.swift */; };
 		9D15FD8C1F33C449006B35F8 /* LaunchImage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D15FD8B1F33C449006B35F8 /* LaunchImage.jpg */; };
+		9D15FD911F33D1BE006B35F8 /* rubberDuckSqueak.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D15FD901F33D1BE006B35F8 /* rubberDuckSqueak.mp3 */; };
+		9D15FD921F33D1BE006B35F8 /* rubberDuckSqueak.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D15FD901F33D1BE006B35F8 /* rubberDuckSqueak.mp3 */; };
+		9D15FD931F33D1BE006B35F8 /* rubberDuckSqueak.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D15FD901F33D1BE006B35F8 /* rubberDuckSqueak.mp3 */; };
+		9D15FD961F33D88C006B35F8 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9D15FD951F33D88C006B35F8 /* AVFoundation.framework */; };
+		9D240E301F343F8D003E7DD7 /* longSqueaktoy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E2F1F343F8D003E7DD7 /* longSqueaktoy.mp3 */; };
+		9D240E311F343F8D003E7DD7 /* longSqueaktoy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E2F1F343F8D003E7DD7 /* longSqueaktoy.mp3 */; };
+		9D240E321F343F8D003E7DD7 /* longSqueaktoy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E2F1F343F8D003E7DD7 /* longSqueaktoy.mp3 */; };
+		9D240E341F344049003E7DD7 /* shortSqueaktoy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E331F344049003E7DD7 /* shortSqueaktoy.mp3 */; };
+		9D240E351F344049003E7DD7 /* shortSqueaktoy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E331F344049003E7DD7 /* shortSqueaktoy.mp3 */; };
+		9D240E361F344049003E7DD7 /* shortSqueaktoy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E331F344049003E7DD7 /* shortSqueaktoy.mp3 */; };
+		9D240E381F34425F003E7DD7 /* doorBell.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E371F34425F003E7DD7 /* doorBell.mp3 */; };
+		9D240E391F34425F003E7DD7 /* doorBell.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E371F34425F003E7DD7 /* doorBell.mp3 */; };
+		9D240E3A1F34425F003E7DD7 /* doorBell.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E371F34425F003E7DD7 /* doorBell.mp3 */; };
+		9D240E3C1F344448003E7DD7 /* duckQuack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E3B1F344448003E7DD7 /* duckQuack.mp3 */; };
+		9D240E3D1F344448003E7DD7 /* duckQuack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E3B1F344448003E7DD7 /* duckQuack.mp3 */; };
+		9D240E3E1F344448003E7DD7 /* duckQuack.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E3B1F344448003E7DD7 /* duckQuack.mp3 */; };
+		9D240E401F344839003E7DD7 /* squirrel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E3F1F344839003E7DD7 /* squirrel.mp3 */; };
+		9D240E411F344839003E7DD7 /* squirrel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E3F1F344839003E7DD7 /* squirrel.mp3 */; };
+		9D240E421F344839003E7DD7 /* squirrel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E3F1F344839003E7DD7 /* squirrel.mp3 */; };
+		9D240E441F344913003E7DD7 /* pigSqueal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E431F344913003E7DD7 /* pigSqueal.mp3 */; };
+		9D240E451F344913003E7DD7 /* pigSqueal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E431F344913003E7DD7 /* pigSqueal.mp3 */; };
+		9D240E461F344913003E7DD7 /* pigSqueal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E431F344913003E7DD7 /* pigSqueal.mp3 */; };
+		9D240E481F344CBF003E7DD7 /* mouseSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E471F344CBF003E7DD7 /* mouseSound.mp3 */; };
+		9D240E491F344CBF003E7DD7 /* mouseSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E471F344CBF003E7DD7 /* mouseSound.mp3 */; };
+		9D240E4A1F344CBF003E7DD7 /* mouseSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E471F344CBF003E7DD7 /* mouseSound.mp3 */; };
+		9D240E4C1F344CD3003E7DD7 /* ratSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E4B1F344CD3003E7DD7 /* ratSound.mp3 */; };
+		9D240E4D1F344CD3003E7DD7 /* ratSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E4B1F344CD3003E7DD7 /* ratSound.mp3 */; };
+		9D240E4E1F344CD3003E7DD7 /* ratSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D240E4B1F344CD3003E7DD7 /* ratSound.mp3 */; };
+		9D2FDB8F1F33E4EF00E04AB2 /* squeakyBall.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D2FDB8E1F33E4EF00E04AB2 /* squeakyBall.mp3 */; };
+		9D2FDB901F33E4EF00E04AB2 /* squeakyBall.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D2FDB8E1F33E4EF00E04AB2 /* squeakyBall.mp3 */; };
+		9D2FDB911F33E4EF00E04AB2 /* squeakyBall.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D2FDB8E1F33E4EF00E04AB2 /* squeakyBall.mp3 */; };
+		9D2FDB931F33E67000E04AB2 /* pikaConversation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D2FDB921F33E67000E04AB2 /* pikaConversation.mp3 */; };
+		9D2FDB941F33E67000E04AB2 /* pikaConversation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D2FDB921F33E67000E04AB2 /* pikaConversation.mp3 */; };
+		9D2FDB951F33E67000E04AB2 /* pikaConversation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D2FDB921F33E67000E04AB2 /* pikaConversation.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +83,19 @@
 		9D15FD731F33B543006B35F8 /* dogCaptureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dogCaptureUITests.swift; sourceTree = "<group>"; };
 		9D15FD751F33B543006B35F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D15FD8B1F33C449006B35F8 /* LaunchImage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = LaunchImage.jpg; path = ../../../Downloads/LaunchImage.jpg; sourceTree = "<group>"; };
+		9D15FD8E1F33CD5A006B35F8 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		9D15FD901F33D1BE006B35F8 /* rubberDuckSqueak.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = rubberDuckSqueak.mp3; sourceTree = "<group>"; };
+		9D15FD951F33D88C006B35F8 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		9D240E2F1F343F8D003E7DD7 /* longSqueaktoy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = longSqueaktoy.mp3; sourceTree = "<group>"; };
+		9D240E331F344049003E7DD7 /* shortSqueaktoy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = shortSqueaktoy.mp3; sourceTree = "<group>"; };
+		9D240E371F34425F003E7DD7 /* doorBell.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = doorBell.mp3; sourceTree = "<group>"; };
+		9D240E3B1F344448003E7DD7 /* duckQuack.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = duckQuack.mp3; sourceTree = "<group>"; };
+		9D240E3F1F344839003E7DD7 /* squirrel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = squirrel.mp3; sourceTree = "<group>"; };
+		9D240E431F344913003E7DD7 /* pigSqueal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pigSqueal.mp3; sourceTree = "<group>"; };
+		9D240E471F344CBF003E7DD7 /* mouseSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = mouseSound.mp3; sourceTree = "<group>"; };
+		9D240E4B1F344CD3003E7DD7 /* ratSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ratSound.mp3; sourceTree = "<group>"; };
+		9D2FDB8E1F33E4EF00E04AB2 /* squeakyBall.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = squeakyBall.mp3; sourceTree = "<group>"; };
+		9D2FDB921F33E67000E04AB2 /* pikaConversation.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pikaConversation.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +103,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D15FD961F33D88C006B35F8 /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,11 +127,13 @@
 		9D15FD471F33B543006B35F8 = {
 			isa = PBXGroup;
 			children = (
+				9D15FD941F33D50F006B35F8 /* Sounds */,
 				9D15FD8B1F33C449006B35F8 /* LaunchImage.jpg */,
 				9D15FD521F33B543006B35F8 /* dogCapture */,
 				9D15FD671F33B543006B35F8 /* dogCaptureTests */,
 				9D15FD721F33B543006B35F8 /* dogCaptureUITests */,
 				9D15FD511F33B543006B35F8 /* Products */,
+				9D15FD8D1F33CD5A006B35F8 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -126,6 +176,33 @@
 				9D15FD751F33B543006B35F8 /* Info.plist */,
 			);
 			path = dogCaptureUITests;
+			sourceTree = "<group>";
+		};
+		9D15FD8D1F33CD5A006B35F8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9D15FD951F33D88C006B35F8 /* AVFoundation.framework */,
+				9D15FD8E1F33CD5A006B35F8 /* AudioToolbox.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9D15FD941F33D50F006B35F8 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				9D240E4B1F344CD3003E7DD7 /* ratSound.mp3 */,
+				9D240E471F344CBF003E7DD7 /* mouseSound.mp3 */,
+				9D240E431F344913003E7DD7 /* pigSqueal.mp3 */,
+				9D240E3F1F344839003E7DD7 /* squirrel.mp3 */,
+				9D240E3B1F344448003E7DD7 /* duckQuack.mp3 */,
+				9D240E371F34425F003E7DD7 /* doorBell.mp3 */,
+				9D240E331F344049003E7DD7 /* shortSqueaktoy.mp3 */,
+				9D240E2F1F343F8D003E7DD7 /* longSqueaktoy.mp3 */,
+				9D2FDB921F33E67000E04AB2 /* pikaConversation.mp3 */,
+				9D2FDB8E1F33E4EF00E04AB2 /* squeakyBall.mp3 */,
+				9D15FD901F33D1BE006B35F8 /* rubberDuckSqueak.mp3 */,
+			);
+			name = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -239,9 +316,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D15FD8C1F33C449006B35F8 /* LaunchImage.jpg in Resources */,
+				9D240E3C1F344448003E7DD7 /* duckQuack.mp3 in Resources */,
+				9D2FDB8F1F33E4EF00E04AB2 /* squeakyBall.mp3 in Resources */,
 				9D15FD5E1F33B543006B35F8 /* LaunchScreen.storyboard in Resources */,
+				9D240E441F344913003E7DD7 /* pigSqueal.mp3 in Resources */,
+				9D240E381F34425F003E7DD7 /* doorBell.mp3 in Resources */,
+				9D240E401F344839003E7DD7 /* squirrel.mp3 in Resources */,
 				9D15FD5B1F33B543006B35F8 /* Assets.xcassets in Resources */,
+				9D240E481F344CBF003E7DD7 /* mouseSound.mp3 in Resources */,
+				9D240E4C1F344CD3003E7DD7 /* ratSound.mp3 in Resources */,
+				9D2FDB931F33E67000E04AB2 /* pikaConversation.mp3 in Resources */,
+				9D240E301F343F8D003E7DD7 /* longSqueaktoy.mp3 in Resources */,
+				9D240E341F344049003E7DD7 /* shortSqueaktoy.mp3 in Resources */,
 				9D15FD591F33B543006B35F8 /* Main.storyboard in Resources */,
+				9D15FD911F33D1BE006B35F8 /* rubberDuckSqueak.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,6 +337,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D240E4D1F344CD3003E7DD7 /* ratSound.mp3 in Resources */,
+				9D240E491F344CBF003E7DD7 /* mouseSound.mp3 in Resources */,
+				9D240E3D1F344448003E7DD7 /* duckQuack.mp3 in Resources */,
+				9D240E411F344839003E7DD7 /* squirrel.mp3 in Resources */,
+				9D240E451F344913003E7DD7 /* pigSqueal.mp3 in Resources */,
+				9D240E351F344049003E7DD7 /* shortSqueaktoy.mp3 in Resources */,
+				9D240E391F34425F003E7DD7 /* doorBell.mp3 in Resources */,
+				9D2FDB941F33E67000E04AB2 /* pikaConversation.mp3 in Resources */,
+				9D240E311F343F8D003E7DD7 /* longSqueaktoy.mp3 in Resources */,
+				9D2FDB901F33E4EF00E04AB2 /* squeakyBall.mp3 in Resources */,
+				9D15FD921F33D1BE006B35F8 /* rubberDuckSqueak.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +355,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D240E4E1F344CD3003E7DD7 /* ratSound.mp3 in Resources */,
+				9D240E4A1F344CBF003E7DD7 /* mouseSound.mp3 in Resources */,
+				9D240E3E1F344448003E7DD7 /* duckQuack.mp3 in Resources */,
+				9D240E421F344839003E7DD7 /* squirrel.mp3 in Resources */,
+				9D240E461F344913003E7DD7 /* pigSqueal.mp3 in Resources */,
+				9D240E361F344049003E7DD7 /* shortSqueaktoy.mp3 in Resources */,
+				9D240E3A1F34425F003E7DD7 /* doorBell.mp3 in Resources */,
+				9D2FDB951F33E67000E04AB2 /* pikaConversation.mp3 in Resources */,
+				9D240E321F343F8D003E7DD7 /* longSqueaktoy.mp3 in Resources */,
+				9D2FDB911F33E4EF00E04AB2 /* squeakyBall.mp3 in Resources */,
+				9D15FD931F33D1BE006B35F8 /* rubberDuckSqueak.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
