@@ -250,188 +250,303 @@ class ViewController: UIViewController {
         }
     }
     
+    @IBOutlet weak var duckQuackButton: UIButton!
     @IBAction func duckQuackButton(_ sender: Any) {
+        duckQuack.numberOfLoops = -5
         if duckQuack.isPlaying {
             duckQuack.stop();
+            duckQuackButton.alpha = 1;
+            duckQuack.currentTime = 0;
         } else {
             duckQuack.play();
+            duckQuackButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var pigSquealButton: UIButton!
     @IBAction func pigSquealButton(_ sender: Any) {
-            if pigSqueal.isPlaying {
+        pigSqueal.numberOfLoops = -5
+        if pigSqueal.isPlaying {
             pigSqueal.stop();
+            pigSquealButton.alpha = 1;
+            pigSqueal.currentTime = 0;
         } else {
             pigSqueal.play();
+            pigSquealButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var toySqueakButton: UIButton!
     @IBAction func toySqueakButton(_ sender: Any) {
+        toySqueak.numberOfLoops = -5
         if toySqueak.isPlaying {
             toySqueak.stop();
+            toySqueakButton.alpha = 1;
+            toySqueak.currentTime = 0;
         } else {
             toySqueak.play();
+            toySqueakButton.alpha = 0.5;
         }
     }
     
     
+    @IBOutlet weak var squirrelButton: UIButton!
     @IBAction func squirrelButton(_ sender: Any) {
+        squirrelSound.numberOfLoops = -5
         if squirrelSound.isPlaying {
             squirrelSound.stop();
+            squirrelButton.alpha = 1;
+            squirrelSound.currentTime = 0;
         } else {
             squirrelSound.play();
+            squirrelButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var shortSqueakToyButton: UIButton!
     @IBAction func shortSqueakToyButton(_ sender: Any) {
+        shortSqueakToy.numberOfLoops = -5
         if shortSqueakToy.isPlaying {
             shortSqueakToy.stop();
+            shortSqueakToyButton.alpha = 1;
+            shortSqueakToy.currentTime = 0;
         } else {
             shortSqueakToy.play();
+            shortSqueakToyButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var longSqueakToyButton: UIButton!
     @IBAction func longSqueakToyButton(_ sender: Any) {
+        longSqueakToy.numberOfLoops = -5
         if longSqueakToy.isPlaying {
             longSqueakToy.stop();
+            longSqueakToyButton.alpha = 1;
+            longSqueakToy.currentTime = 0;
         } else {
             longSqueakToy.play();
+            longSqueakToyButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var mouseSoundButton: UIButton!
     @IBAction func mouseSound(_ sender: Any) {
+        mouseSound.numberOfLoops = -5
         if mouseSound.isPlaying {
             mouseSound.stop();
+            mouseSoundButton.alpha = 1;
+            mouseSound.currentTime = 0;
         } else {
             mouseSound.play();
+            mouseSoundButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var ratSoundButton: UIButton!
     @IBAction func ratSoundButton(_ sender: Any) {
+        ratSound.numberOfLoops = -5
         if ratSound.isPlaying {
             ratSound.stop();
+            ratSoundButton.alpha = 1;
+            ratSound.currentTime = 0;
         } else {
             ratSound.play();
+            ratSoundButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var dog1barkButton: UIButton!
     @IBAction func dog1barkButton(_ sender: Any) {
+        dog1bark.numberOfLoops = -5
         if dog1bark.isPlaying {
             dog1bark.stop();
+            dog1barkButton.alpha = 1;
+            dog1bark.currentTime = 0;
         } else {
             dog1bark.play();
+            dog1barkButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var dog2barkButton: UIButton!
     @IBAction func dog2barkButton(_ sender: Any) {
+        dog2bark.numberOfLoops = -5
         if dog2bark.isPlaying {
             dog2bark.stop();
+            dog2barkButton.alpha = 1;
+            dog2bark.currentTime = 0;
         } else {
             dog2bark.play();
+            dog2barkButton.alpha = 0.5;
         }
     }
    
+    @IBOutlet weak var dog3barkButton: UIButton!
     @IBAction func dog3barkButton(_ sender: Any) {
+        dog3bark.numberOfLoops = -5
         if dog3bark.isPlaying {
             dog3bark.stop();
+            dog3barkButton.alpha = 1;
+            dog3bark.currentTime = 0;
         } else {
             dog3bark.play();
+            dog3barkButton.alpha = 0.5;
         }
     }
 
+    @IBOutlet weak var dog4barkButton: UIButton!
     @IBAction func dog4barkButton(_ sender: Any) {
+        dog4bark.numberOfLoops = -5
         if dog4bark.isPlaying {
             dog4bark.stop();
+            dog4barkButton.alpha = 1;
+            dog4bark.currentTime = 0;
         } else {
             dog4bark.play();
+            dog4barkButton.alpha = 0.5;
         }
     }
 
+    @IBOutlet weak var dog5barkButton: UIButton!
     @IBAction func dog5barkButton(_ sender: Any) {
+        dog5bark.numberOfLoops = -5
         if dog5bark.isPlaying {
             dog5bark.stop();
+            dog5barkButton.alpha = 1;
+            dog5bark.currentTime = 0;
         } else {
             dog5bark.play();
+            dog5barkButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var dog6barkButton: UIButton!
     @IBAction func dog6barkButton(_ sender: Any) {
+        dog6bark.numberOfLoops = -5
         if dog6bark.isPlaying {
             dog6bark.stop();
+            dog6barkButton.alpha = 1;
+            dog6bark.currentTime = 0;
         } else {
             dog6bark.play();
+            dog6barkButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var wolfHowlButton: UIButton!
     @IBAction func wolfHowlButton(_ sender: Any) {
+        wolfHowl.numberOfLoops = -5
         if wolfHowl.isPlaying {
             wolfHowl.stop();
+            wolfHowlButton.alpha = 1;
+            wolfHowl.currentTime = 0;
         } else {
             wolfHowl.play();
+            wolfHowlButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var packBarkingButton: UIButton!
     @IBAction func packBarkingButton(_ sender: Any) {
+        packBarking.numberOfLoops = -5
         if packBarking.isPlaying {
             packBarking.stop();
+            packBarkingButton.alpha = 1;
+            packBarking.currentTime = 0;
         } else {
             packBarking.play();
+            packBarkingButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var chewbaccaButton: UIButton!
     @IBAction func chewbaccaButton(_ sender: Any) {
+        chewbaccaSound.numberOfLoops = -5
         if chewbaccaSound.isPlaying {
             chewbaccaSound.stop();
+            chewbaccaButton.alpha = 1;
+            chewbaccaSound.currentTime = 0;
         } else {
             chewbaccaSound.play();
+            chewbaccaButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var dogWhineButton: UIButton!
     @IBAction func dogWhineButton(_ sender: Any) {
+        dogWhine.numberOfLoops = -5
         if dogWhine.isPlaying {
             dogWhine.stop();
+            dogWhineButton.alpha = 1;
+            dogWhine.currentTime = 0;
         } else {
             dogWhine.play();
+            dogWhineButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var ambulanceButton: UIButton!
     @IBAction func ambulanceButton(_ sender: Any) {
+        ambulanceSiren.numberOfLoops = -5
         if ambulanceSiren.isPlaying {
             ambulanceSiren.stop();
+            ambulanceButton.alpha = 1;
+            ambulanceSiren.currentTime = 0;
         } else {
             ambulanceSiren.play();
+            ambulanceButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var firetruckButton: UIButton!
     @IBAction func firetruckButton(_ sender: Any) {
+        firetruckSiren.numberOfLoops = -5
         if firetruckSiren.isPlaying {
             firetruckSiren.stop();
+            firetruckButton.alpha = 1;
+            firetruckSiren.currentTime = 0;
         } else {
             firetruckSiren.play();
+            firetruckButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var policeButton: UIButton!
     @IBAction func policeButton(_ sender: Any) {
+        policeSiren.numberOfLoops = -5
         if policeSiren.isPlaying {
             policeSiren.stop();
+            policeButton.alpha = 1;
+            policeSiren.currentTime = 0;
         } else {
             policeSiren.play();
+            policeButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var tornadoButton: UIButton!
     @IBAction func tornadoButton(_ sender: Any) {
+        tornadoSiren.numberOfLoops = -5
         if tornadoSiren.isPlaying {
             tornadoSiren.stop();
+            tornadoButton.alpha = 1;
+            tornadoSiren.currentTime = 0;
         } else {
             tornadoSiren.play();
+            tornadoButton.alpha = 0.5;
         }
     }
     
+    @IBOutlet weak var doorBellButton: UIButton!
     @IBAction func doorBellButton(_ sender: Any) {
+        doorBell.numberOfLoops = -5
         if doorBell.isPlaying {
             doorBell.stop();
+            doorBellButton.alpha = 1;
+            doorBell.currentTime = 0;
         } else {
             doorBell.play();
+            doorBellButton.alpha = 0.5;
         }
     }
     
