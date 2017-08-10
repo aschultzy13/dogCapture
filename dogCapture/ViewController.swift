@@ -224,20 +224,29 @@ class ViewController: UIViewController {
     }
     // Button Actions
     
+    @IBOutlet weak var pikaButton: UIButton!
     @IBAction func pikaButton(_ sender: Any) {
-        pikaButton.alpha = 0.5 // 50% opacity
+        pikaSqueak.numberOfLoops = -5
         if pikaSqueak.isPlaying {
             pikaSqueak.stop();
+            pikaButton.alpha = 1;
+            pikaSqueak.currentTime = 0;
         } else {
-        pikaSqueak.play();
+            pikaSqueak.play();
+            pikaButton.alpha = 0.5;
         }
-        
     }
+    
+    @IBOutlet weak var ballSqueakButton: UIButton!
     @IBAction func ballSqueakButton(_ sender: Any) {
+        ballSqueak.numberOfLoops = -5
         if ballSqueak.isPlaying {
             ballSqueak.stop();
+            ballSqueakButton.alpha = 1;
+            ballSqueak.currentTime = 0;
         } else {
             ballSqueak.play();
+            ballSqueakButton.alpha = 0.5;
         }
     }
     
@@ -426,6 +435,7 @@ class ViewController: UIViewController {
         }
     }
     
+
     
 }
 
