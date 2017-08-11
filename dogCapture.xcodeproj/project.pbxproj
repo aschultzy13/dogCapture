@@ -51,6 +51,9 @@
 		9D195B161F3CD9BA0091FA91 /* chewbacca.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D195B151F3CD9BA0091FA91 /* chewbacca.jpg */; };
 		9D195B171F3CD9BA0091FA91 /* chewbacca.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D195B151F3CD9BA0091FA91 /* chewbacca.jpg */; };
 		9D195B181F3CD9BA0091FA91 /* chewbacca.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9D195B151F3CD9BA0091FA91 /* chewbacca.jpg */; };
+		9D195B261F3CFCDD0091FA91 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D195B251F3CFCDD0091FA91 /* CameraViewController.swift */; };
+		9D195B271F3CFCDD0091FA91 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D195B251F3CFCDD0091FA91 /* CameraViewController.swift */; };
+		9D195B281F3CFCDD0091FA91 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D195B251F3CFCDD0091FA91 /* CameraViewController.swift */; };
 		9D1A70431F34F8580027FA11 /* dog1sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A703D1F34F8580027FA11 /* dog1sound.mp3 */; };
 		9D1A70441F34F8580027FA11 /* dog1sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A703D1F34F8580027FA11 /* dog1sound.mp3 */; };
 		9D1A70451F34F8580027FA11 /* dog1sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D1A703D1F34F8580027FA11 /* dog1sound.mp3 */; };
@@ -129,6 +132,12 @@
 		9D2FDB931F33E67000E04AB2 /* pikaConversation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D2FDB921F33E67000E04AB2 /* pikaConversation.mp3 */; };
 		9D2FDB941F33E67000E04AB2 /* pikaConversation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D2FDB921F33E67000E04AB2 /* pikaConversation.mp3 */; };
 		9D2FDB951F33E67000E04AB2 /* pikaConversation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9D2FDB921F33E67000E04AB2 /* pikaConversation.mp3 */; };
+		9DD7E5CA1F3D0F920072C421 /* shuttericon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DD7E5C91F3D0F920072C421 /* shuttericon.png */; };
+		9DD7E5CB1F3D0F920072C421 /* shuttericon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DD7E5C91F3D0F920072C421 /* shuttericon.png */; };
+		9DD7E5CC1F3D0F920072C421 /* shuttericon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DD7E5C91F3D0F920072C421 /* shuttericon.png */; };
+		9DD7E5CE1F3D34EF0072C421 /* switchcamera.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DD7E5CD1F3D34EF0072C421 /* switchcamera.png */; };
+		9DD7E5CF1F3D34EF0072C421 /* switchcamera.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DD7E5CD1F3D34EF0072C421 /* switchcamera.png */; };
+		9DD7E5D01F3D34EF0072C421 /* switchcamera.png in Resources */ = {isa = PBXBuildFile; fileRef = 9DD7E5CD1F3D34EF0072C421 /* switchcamera.png */; };
 		9DFDAEE41F3CBD24000DD263 /* duck.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9DFDAEE31F3CBD24000DD263 /* duck.jpg */; };
 		9DFDAEE51F3CBD24000DD263 /* duck.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9DFDAEE31F3CBD24000DD263 /* duck.jpg */; };
 		9DFDAEE61F3CBD24000DD263 /* duck.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9DFDAEE31F3CBD24000DD263 /* duck.jpg */; };
@@ -211,6 +220,7 @@
 		9D195B0D1F3CD8540091FA91 /* firetruck.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = firetruck.jpg; sourceTree = "<group>"; };
 		9D195B111F3CD94E0091FA91 /* policecar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = policecar.jpg; sourceTree = "<group>"; };
 		9D195B151F3CD9BA0091FA91 /* chewbacca.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chewbacca.jpg; sourceTree = "<group>"; };
+		9D195B251F3CFCDD0091FA91 /* CameraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CameraViewController.swift; path = ../CameraViewController.swift; sourceTree = "<group>"; };
 		9D1A703D1F34F8580027FA11 /* dog1sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dog1sound.mp3; sourceTree = "<group>"; };
 		9D1A703E1F34F8580027FA11 /* dog2sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dog2sound.mp3; sourceTree = "<group>"; };
 		9D1A703F1F34F8580027FA11 /* dog3sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = dog3sound.mp3; sourceTree = "<group>"; };
@@ -237,6 +247,8 @@
 		9D240E4B1F344CD3003E7DD7 /* ratSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ratSound.mp3; sourceTree = "<group>"; };
 		9D2FDB8E1F33E4EF00E04AB2 /* squeakyBall.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = squeakyBall.mp3; sourceTree = "<group>"; };
 		9D2FDB921F33E67000E04AB2 /* pikaConversation.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pikaConversation.mp3; sourceTree = "<group>"; };
+		9DD7E5C91F3D0F920072C421 /* shuttericon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shuttericon.png; sourceTree = "<group>"; };
+		9DD7E5CD1F3D34EF0072C421 /* switchcamera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = switchcamera.png; sourceTree = "<group>"; };
 		9DFDAEE31F3CBD24000DD263 /* duck.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = duck.jpg; sourceTree = "<group>"; };
 		9DFDAEE71F3CBE27000DD263 /* doorbell.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = doorbell.jpg; sourceTree = "<group>"; };
 		9DFDAEEB1F3CBF79000DD263 /* pig.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pig.jpg; sourceTree = "<group>"; };
@@ -305,6 +317,7 @@
 			children = (
 				9D15FD531F33B543006B35F8 /* AppDelegate.swift */,
 				9D15FD551F33B543006B35F8 /* ViewController.swift */,
+				9D195B251F3CFCDD0091FA91 /* CameraViewController.swift */,
 				9D15FD571F33B543006B35F8 /* Main.storyboard */,
 				9D15FD5A1F33B543006B35F8 /* Assets.xcassets */,
 				9D15FD5C1F33B543006B35F8 /* LaunchScreen.storyboard */,
@@ -375,6 +388,8 @@
 		9D1A70751F352E2D0027FA11 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				9DD7E5CD1F3D34EF0072C421 /* switchcamera.png */,
+				9DD7E5C91F3D0F920072C421 /* shuttericon.png */,
 				9D195B151F3CD9BA0091FA91 /* chewbacca.jpg */,
 				9D195B0D1F3CD8540091FA91 /* firetruck.jpg */,
 				9D195B111F3CD94E0091FA91 /* policecar.jpg */,
@@ -515,6 +530,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D15FD8C1F33C449006B35F8 /* LaunchImage.jpg in Resources */,
+				9DD7E5CA1F3D0F920072C421 /* shuttericon.png in Resources */,
 				9D1A70491F34F8580027FA11 /* dog3sound.mp3 in Resources */,
 				9D240E3C1F344448003E7DD7 /* duckQuack.mp3 in Resources */,
 				9D195B0E1F3CD8540091FA91 /* firetruck.jpg in Resources */,
@@ -551,6 +567,7 @@
 				9D195B121F3CD94E0091FA91 /* policecar.jpg in Resources */,
 				9D1A706E1F350DA20027FA11 /* policeSiren.mp3 in Resources */,
 				9D1A706A1F350D980027FA11 /* firetruckSiren.mp3 in Resources */,
+				9DD7E5CE1F3D34EF0072C421 /* switchcamera.png in Resources */,
 				9D195AFA1F3CD45E0091FA91 /* doggroup.jpg in Resources */,
 				9D195B0A1F3CD79B0091FA91 /* ambulance.jpg in Resources */,
 				9D195AF61F3CD3A60091FA91 /* shortsqueak.jpg in Resources */,
@@ -597,10 +614,12 @@
 				9D240E411F344839003E7DD7 /* squirrel.mp3 in Resources */,
 				9DFDAF071F3CCD94000DD263 /* dog4.jpg in Resources */,
 				9D195B131F3CD94E0091FA91 /* policecar.jpg in Resources */,
+				9DD7E5CF1F3D34EF0072C421 /* switchcamera.png in Resources */,
 				9D1A706B1F350D980027FA11 /* firetruckSiren.mp3 in Resources */,
 				9D240E451F344913003E7DD7 /* pigSqueal.mp3 in Resources */,
 				9D1A704A1F34F8580027FA11 /* dog3sound.mp3 in Resources */,
 				9DFDAF0A1F3CCD94000DD263 /* dog5.jpg in Resources */,
+				9DD7E5CB1F3D0F920072C421 /* shuttericon.png in Resources */,
 				9D1A70531F34F8580027FA11 /* dog6sound.mp3 in Resources */,
 				9D1A707C1F3535D60027FA11 /* squeakairtennisball.jpg in Resources */,
 				9D195AFB1F3CD45E0091FA91 /* doggroup.jpg in Resources */,
@@ -652,10 +671,12 @@
 				9D240E421F344839003E7DD7 /* squirrel.mp3 in Resources */,
 				9DFDAF081F3CCD94000DD263 /* dog4.jpg in Resources */,
 				9D195B141F3CD94E0091FA91 /* policecar.jpg in Resources */,
+				9DD7E5D01F3D34EF0072C421 /* switchcamera.png in Resources */,
 				9D1A706C1F350D980027FA11 /* firetruckSiren.mp3 in Resources */,
 				9D240E461F344913003E7DD7 /* pigSqueal.mp3 in Resources */,
 				9D1A704B1F34F8580027FA11 /* dog3sound.mp3 in Resources */,
 				9DFDAF0B1F3CCD94000DD263 /* dog5.jpg in Resources */,
+				9DD7E5CC1F3D0F920072C421 /* shuttericon.png in Resources */,
 				9D1A70541F34F8580027FA11 /* dog6sound.mp3 in Resources */,
 				9D1A707D1F3535D60027FA11 /* squeakairtennisball.jpg in Resources */,
 				9D195AFC1F3CD45E0091FA91 /* doggroup.jpg in Resources */,
@@ -690,6 +711,7 @@
 			files = (
 				9D15FD561F33B543006B35F8 /* ViewController.swift in Sources */,
 				9D15FD541F33B543006B35F8 /* AppDelegate.swift in Sources */,
+				9D195B261F3CFCDD0091FA91 /* CameraViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -698,6 +720,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D15FD691F33B543006B35F8 /* dogCaptureTests.swift in Sources */,
+				9D195B271F3CFCDD0091FA91 /* CameraViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -706,6 +729,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D15FD741F33B543006B35F8 /* dogCaptureUITests.swift in Sources */,
+				9D195B281F3CFCDD0091FA91 /* CameraViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
