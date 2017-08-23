@@ -9,7 +9,8 @@
 import UIKit
 import AVFoundation
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, UIImagePickerControllerDelegate,
+UINavigationControllerDelegate {
 
     
     // Sounds to be played
@@ -38,13 +39,13 @@ class ViewController: UIViewController {
     var firetruckSiren = AVAudioPlayer();
     var policeSiren = AVAudioPlayer();
     var tornadoSiren = AVAudioPlayer();
+    var picker = UIImagePickerController()
     
     
     
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
         
         // Input sounds and get ready to play
         do {
@@ -550,6 +551,20 @@ class ViewController: UIViewController {
             doorBellButton.alpha = 0.5;
         }
     }
+    
+   
+    
+
+    
+    
+    
+    
+    
+   
+    
+    
+    
+   
     
   
     
